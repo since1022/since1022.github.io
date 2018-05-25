@@ -127,15 +127,15 @@ body{
 .box2{
 	width: 100%;
 	height: 430px;
-	background-color: black;
-	background-image: url('image/mule.jpg');
+	background-color: ;
+	background-image: url('image/mule-1.jpg');
 	background-size: cover;
 	background-position: center;
 	}
 
 #news{
 	width: 100%;
-	height: 130vh;
+	height: 1150px;
 	background-color: ;
 	margin-top: 250px;
 }
@@ -527,7 +527,7 @@ body{
 	 	background-color: ;
 	 	float: right ;
 	 	margin-top: 10px;
-	 	background-image: url('image/story_4.jpg');
+	 	background-image: url('image/story_4_opt.jpg');
 	 	background-size: cover;
 	 	margin-right: 50px;
 	 	box-shadow: 2px 2px 3px rgba(0,0,0,0.5), 
@@ -668,7 +668,7 @@ body{
      	background-color: ;
      	position: relative;
      	top: 30%;
-     	background-image: url('image/menu_left1.png');
+     	background-image: url('image/menu_left1.jpg');
      	background-size: cover;
      	background-position: 80% 80%;
      	
@@ -684,7 +684,7 @@ body{
     	background-color: ;
     	position: relative;
     	top: 65%;
-    	background-image: url('image/menu_right1.png');
+    	background-image: url('image/menu_right1.jpg');
     	background-size: cover;
      	/* background-position: 80% 80%; */
     	
@@ -692,7 +692,7 @@ body{
     .menu_pic{
     	width: 100%;
     	height: 35%;
-    	background-color: black;
+    	background-color: ;
     	background-image: url('image/menu_button1.jpg');
     	background-size: cover;
     }
@@ -755,7 +755,7 @@ body{
      	background-color: black;
      	position: relative;
      	top: 30%;
-     	background-image: url('image/menu_left2.png');
+     	background-image: url('image/menu_left2.jpg');
      	background-size: cover;
      	background-position: 80% 80%;
      }
@@ -765,14 +765,14 @@ body{
     	background-color: black;
     	position: relative;
     	top: 65%;
-    	background-image: url('image/menu_right2.png');
+    	background-image: url('image/menu_right2.jpg');
     	background-size: cover;
      }
        .menu_section2_pic{
     	width: 100%;
     	height: 35%;
     	background-color: black;
-    	background-image: url('image/menu_button2.jpg');
+    	background-image: url('image/menu_button2-1.jpg');
     	background-size: cover;
     }
     #reservation{
@@ -1882,7 +1882,7 @@ margin-top: 80px;
     .menu_pic{
     	width: 100%;
     	height: 18%;
-    	background-color: black;
+    	background-color:;
     	background-image: url('image/menu_button1.jpg');
     	background-size: cover;
     	background-position: center;
@@ -1916,19 +1916,19 @@ margin-top: 80px;
    .menu_section2_left{
      	width: 0%;
      	height: 0%;
-     	background-color: black;
+     	background-color: ;
      
      }
     .menu_section2_right{
     	width: 0%;
     	height: 0%;
-    	background-color: black;
+    	background-color: ;
     	
      }
        .menu_section2_pic{
     	width: 100%;
     	height: 18%;
-    	background-color: black;
+    	background-color: ;
     	background-image: url('image/menu_button2.jpg');
     	background-size: cover;
     }
