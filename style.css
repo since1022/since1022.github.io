@@ -1596,15 +1596,14 @@ margin-top: 80px;
 	width: 1%;
 	height:45%;
 	background-color: #E55A6B;
-	margin-top: 19%;
+	margin-top: 17%;
 	float: left;
 }
 .story_text2{
 	width: 100%;
 	height: 130px;
-	background-color: ;
 	float: left;
-	margin-top: 50px;
+	margin-top: 40px;
 	margin-left: auto;
 	nav-right: auto;
 	
@@ -1613,12 +1612,11 @@ margin-top: 80px;
 	width: 1%;
 	height: 75%;
 	background-color: #E55A6B;
-	margin-top: 7%
+	margin-top: 5%
 }
 .story_text2_right{
 	width: 97%;
 	height: 100%;
-	background-color: ;
 	float: right;
 }
 
@@ -1647,13 +1645,11 @@ margin-top: 80px;
    .story_text3{
    	width: 0%;
    	height: 0;
-   	background-color: ;
    }
 
     .story_text4{
 	width: 100%;
 	height: 300px;
-	background-color: ;
 	float: left;
 	margin-top: 50px;
 	 
@@ -1662,20 +1658,18 @@ margin-top: 80px;
 	 width: 1%;
 	height: 54%;
 	background-color: #E55A6B;
-	margin-top: 19%
+	margin-top: 17%
 
 	 }
 	 .story_text4_right{
 	width: 97%;
 	height: 100%;
-	background-color: ;
 	float: right;
 }
 
 	 .story_pic4{
 	 	width: 0%;
 	 	height: 0px;
-	 	background-color: ;
 	 	float: right ;
 	 	margin-top: 10px;
 	 	background-image: url('');
@@ -1719,14 +1713,13 @@ margin-top: 80px;
 	 	width: 100%;
 	 	height: 700px;
 	 	background-color:#EFE4EF ;
-	 	background-image: url('image/menu_flower2.png');
+	 	background-image: url('image/menu_flowerphone.png');
 	 	background-size: cover
 	 }
 	 
 	 .menu_bag_block{
 	 	width: 100%;
 	 	height: 25%;
-	 	background-color: ;
 	 	position: relative;
 	 	top:5%;
 	 	display: flex;
@@ -1974,8 +1967,7 @@ margin-top: 80px;
      .input2{
         margin-left:0px;
         color: #8C6239;
-    	width: 10%;
-    	
+    	width: 15%;
     }
     .reservation_bag_box1{
     position: relative;
@@ -1989,7 +1981,6 @@ margin-top: 80px;
      width:0%;
      height: 0% ;
  }
-
  
  .reservation_box_pic1{
  	position: relative;
@@ -2019,12 +2010,10 @@ margin-top: 80px;
   #location{
  	width: 100%;
  	height: 1200px;
- 	background-color:;
  }
 .location_section1, .location_section2{
 	width: 90%;
 	height: 40%;
-	background-color:;
 	margin-top: 20%;
 	
 
@@ -2032,7 +2021,6 @@ margin-top: 80px;
 .location_section1_left, .location_section2_left{
 	width: 100%;
 	height: 47%;
-	background-color: ;
 	float: left;
 } 
 .location_section1_right, .location_section2_right{
@@ -2056,14 +2044,12 @@ margin-top: 80px;
 .location_box{
 	width: 82%;
 	height: 10%;
-	background-color: ;
 	margin-bottom: 8%;
 	margin-left:9%; 
 }
 .location_box1{
 	width: 92%;
 	height: 20%;
-	background-color: ;
 	margin-bottom: 5%;
 	margin-left:8%;
 
@@ -2071,7 +2057,6 @@ margin-top: 80px;
 .location_icon{
 	width: 8%;
 	height: 100%;
-	background-color: ;
 	float: left;
 }
 .location_icon.icon01{
@@ -2186,12 +2171,12 @@ margin-top: 80px;
 }
 .contact_middle_box.text1{
 	position: absolute;
-	left:12%;
+	left:11%;
 	top:25%;
 }
 .contact_middle_box.text2{
 	position: absolute;
-	left:12%;
+	left:11%;
 	top:35%
 }
 .contact_middle_box.text3{
@@ -2228,8 +2213,8 @@ margin-top: 80px;
 	text-align: center;
 	position: absolute;
 	bottom: 5%;
-	left: 55%;
-	border-radius: 5px;
+	left:48%;
+	border-radius: 2px;
 }
 .footer{
 	height: 35%;
@@ -2270,7 +2255,6 @@ margin-top: 80px;
 .footer_copyright{
 	width: 70%;
 	height: 10%;
-	background-color: ;
 	float: left; 
 	margin-left: 15%;
 	font-size: 16px;
