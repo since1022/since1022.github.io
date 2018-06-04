@@ -1336,7 +1336,6 @@ body {
         height: 200px;
         background: url('image/dinner-party2_opt.jpg') no-repeat;
         background-size: 414px 313px;
-        background-attachment: ;
         background-position: 50% 10%;
     }
     .box {
@@ -2211,7 +2210,7 @@ body {
     .navbarMobile .collapse {
         position: absolute;
         left: 5%;
-        top: 4%; 
+        top: 6%; 
     }
     .navbarMobile>ul.active {
         height: 260px;
