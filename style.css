@@ -2210,7 +2210,7 @@ body {
     .navbarMobile .collapse {
         position: absolute;
         left: 5%;
-        top: 4.5%; 
+        top: 4.8%; 
     }
     .navbarMobile>ul.active {
         height: 260px;
@@ -2219,7 +2219,7 @@ body {
         width: 35px;
         height: 35px;
         right: 3%;
-        top: 0.8%;
+        top: 0.9%;
     }
     .story_text1_line {
         margin-top: 20%
