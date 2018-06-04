@@ -2208,5 +2208,42 @@ body {
     }
 }
 @media screen and (max-width:375px){
+    .navbarMobile .collapse {
+        position: absolute;
+        left: 5%;
+        top: 3; 
+    }
+    .facebookicon {   
+        right: 3%;
+        top: 1%;
+    }
+    .story_text1_line {
+        margin-top: 25%
+    }
+    .story_text2_line {
+        margin-top: 6%
+    }
+    .story_text4_line {
+        margin-top: 20%
+    }
+   
+    .contact_button {
+        width: 15%;
+        height: 10%;
+        font-size: 20px;
+        bottom: 5%;
+        left: 43%;
+        border-radius: 2px;
+    }
+    .contact_middle_box.text3 {
+        position: absolute;
+        left: 7%;
+        top: 45%;
+    }
+    .contact_middle_box.text4 {
+        position: absolute;
+        left: 4%;
+        top: 58%;
+    }
 	
 }
