@@ -2211,12 +2211,14 @@ body {
     .navbarMobile .collapse {
         position: absolute;
         left: 5%;
-        top: 1; 
+        top: 1%; 
     }
     .navbarMobile>ul.active {
         height: 260px;
     }
     .facebookicon {   
+        width: 35px;
+        height: 35px;
         right: 3%;
         top: 1.5%;
     }
