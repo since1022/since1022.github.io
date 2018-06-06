@@ -28,7 +28,7 @@ body {
     background-position: center;
     position: relative;
     left: 45%;
-    top: %;
+    top: 0%;
 }
 
 .logo:hover {
@@ -48,37 +48,37 @@ body {
 
 .title1 {
     position: absolute;
-    top: 8%;
+    top: 6%;
     left: 8%;
 }
 
 .title2 {
     position: absolute;
-    top: 8%;
+    top: 6%;
     left: 19%;
 }
 
 .title3 {
     position: absolute;
-    top: 8%;
+    top: 6%;
     left: 30%;
 }
 
 .title4 {
     position: absolute;
-    top: 8%;
+    top: 6%;
     left: 60%;
 }
 
 .title5 {
     position: absolute;
-    top: 8%;
+    top: 6%;
     left: 71%;
 }
 
 .title6 {
     position: absolute;
-    top: 8%;
+    top: 6%;
     left: 82%;
 }
 
@@ -247,7 +247,6 @@ body {
 #block1.news_block_pic {
     background-image: url('image/poster1-1.jpg');
     background-size: cover;
-    transition: ;
 }
 
 #block2.news_block_pic {
@@ -268,7 +267,6 @@ body {
 .news_block_text {
     width: 100%;
     height: 20%;
-    background-color: ;
 }
 
 .news_button {
@@ -311,21 +309,18 @@ body {
 .news_box_left {
     width: 34%;
     height: 100%;
-    background-color: ;
     display: inline-block;
 }
 
 .news_box_right {
     width: 65%;
     height: 100%;
-    background-color: ;
     display: inline-block;
 }
 
 .news_box_pic1 {
     width: 100px;
     height: 100px;
-    background-color: ;
     border-radius: 50px;
     position: relative;
     top: 50%;
@@ -339,7 +334,6 @@ body {
 .news_box_pic2 {
     width: 100px;
     height: 100px;
-    background-color: ;
     border-radius: 50px;
     position: relative;
     top: 50%;
@@ -407,7 +401,6 @@ body {
 .story_text1 {
     width: 40%;
     height: 350px;
-    background-color: ;
     float: left;
     margin-left: 100px;
     margin-top: 100px;
@@ -416,7 +409,6 @@ body {
 .story_text1_right {
     width: 97%;
     height: 100%;
-    background-color: ;
     float: right;
 }
 
@@ -1047,7 +1039,6 @@ body {
 .location_icon1 {
     width: 15%;
     height: 100%;
-    background-color: ;
     float: left;
 }
 
@@ -1071,21 +1062,18 @@ body {
 #contact {
     width: 100%;
     height: 800px;
-    background-color: ;
     margin-top: 200px;
 }
 
 .contact_block {
     width: 100%;
     height: 65%;
-    background-color: ;
     position: relative;
 }
 
 .contact_up {
     width: 100%;
     height: 10%;
-    background-color: ;
 }
 
 .contact_down {
@@ -1109,7 +1097,6 @@ body {
 .contact_middle_box {
     width: 80%;
     height: 10%;
-    background-color: ;
     /* 	position: absolute;
 	left: 15%;
 	top: 10%; */
@@ -1168,7 +1155,8 @@ body {
     text-align: center;
     position: absolute;
     bottom: 5%;
-    left: 45%;
+    left: 48.5%;
+    border-radius: 3px;
 }
 
 .footer {
@@ -1213,7 +1201,6 @@ body {
 .footer_copyright {
     width: 35%;
     height: 10%;
-    background-color: ;
     float: left;
     margin-left: 37.5%;
 }
@@ -1340,13 +1327,11 @@ body {
     }
     .box {
         width: 100%;
-        height: 200px;
-        background-color: ;
+        height: 200px;;
     }
     .box_text {
         width: 50%;
-        height: 40%;
-        background-color: ;
+        height: 40%;;
         margin: 0;
         text-align: center;
         position: relative;
@@ -1422,8 +1407,7 @@ body {
     }
     .news_bag_block {
         width: 100%;
-        height: 60%;
-        background-color: ;
+        height: 60%;;
         position: absolute;
         top: 3%;
         display: flex;
@@ -1432,14 +1416,12 @@ body {
     }
     .news_block {
         width: 35%;
-        height: 50%;
-        background-color: ;
+        height: 50%;;
         margin-top: 20px;
     }
     .news_block_pic {
         width: 100%;
-        height: 80%;
-        background-color: ;
+        height: 80%;;
         box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5), 5px 5px 1px rgba(0, 0, 0, 0.3);
     }
     .news_block_pic:hover .details {
@@ -1451,8 +1433,7 @@ body {
     }
     .news_block_text {
         width: 100%;
-        height: 20%;
-        background-color: ;
+        height: 20%;;
     }
     .news_button {
         width: 33%;
@@ -1489,20 +1470,17 @@ body {
     }
     .news_box_left {
         width: 34%;
-        height: 100%;
-        background-color: ;
+        height: 100%;;
         display: inline-block;
     }
     .news_box_right {
         width: 65%;
-        height: 100%;
-        background-color: ;
+        height: 100%;;
         display: inline-block;
     }
     .news_box_pic1 {
         width: 80px;
-        height: 80px;
-        background-color: ;
+        height: 80px;;
         border-radius: 50px;
         position: relative;
         top: 50%;
@@ -1514,8 +1492,7 @@ body {
     }
     .news_box_pic2 {
         width: 80px;
-        height: 80px;
-        background-color: ;
+        height: 80px;;
         border-radius: 50px;
         position: relative;
         top: 50%;
@@ -1556,8 +1533,7 @@ body {
     }
     #story {
         width: 84%;
-        height: 2050px;
-        background-color: ;
+        height: 2050px;;
         padding: 0 8%;
     }
     .story_book {
@@ -1569,8 +1545,7 @@ body {
     }
     .story_pic1 {
         width: 100%;
-        height: 250px;
-        background-color: ;
+        height: 250px;;
         float: left;
         background-image: url('image/story_1.jpg');
         background-size: cover;
@@ -1579,15 +1554,13 @@ body {
     }
     .story_text1 {
         width: 100%;
-        height: 300px;
-        background-color: ;
+        height: 300px;;
         float: right;
         margin-top: 30px;
     }
     .story_text1_right {
         width: 97%;
-        height: 100%;
-        background-color: ;
+        height: 100%;;
         float: right;
     }
     .story_text1_line {
@@ -1761,8 +1734,7 @@ body {
     .menu_section1,
     .menu_section2 {
         width: 90%;
-        height: 1200px;
-        background-color: ;
+        height: 1200px;;
         margin-top: 30px;
         display: flex;
         padding: 5%;
@@ -1774,8 +1746,7 @@ body {
     }
     .menu_middle {
         width: 100%;
-        height: 100%;
-        background-color: ;
+        height: 100%;;
     }
     .menu_right {
         width: 0%;
@@ -1784,22 +1755,19 @@ body {
     }
     .menu_pic {
         width: 100%;
-        height: 18%;
-        background-color: ;
+        height: 18%;;
         background-image: url('image/menu_button1.jpg');
         background-size: cover;
         background-position: center;
     }
     .menu_text {
         width: 100%;
-        height: 80%;
-        background-color: ;
+        height: 80%;;
         display: flex;
     }
     .menu_box {
         width: 80%;
-        height: 10%;
-        background-color: ;
+        height: 10%;;
         margin-top: 30px;
     }
     .menu_box p {
@@ -1815,17 +1783,14 @@ body {
     .menu_section2_left {
         width: 0%;
         height: 0%;
-        background-color: ;
     }
     .menu_section2_right {
         width: 0%;
         height: 0%;
-        background-color: ;
     }
     .menu_section2_pic {
         width: 100%;
-        height: 18%;
-        background-color: ;
+        height: 18%;;
         background-image: url('image/menu_button2-1.jpg');
         background-size: cover;
     }
@@ -1834,8 +1799,7 @@ body {
     }
     #reservation {
         width: 100%;
-        height: 1000px;
-        background-color: ;
+        height: 1000px;;
         margin-top: 250px;
     }
     .reservation_bag {
@@ -1846,8 +1810,7 @@ body {
         position: relative;
     }
     .reservation_text {
-        width: 80%;
-        background-color: ;
+        width: 80%;;
         position: absolute;
         left: 10%;
         top: 2%;
@@ -1892,7 +1855,6 @@ body {
         font-family: "微軟正黑體", bold;
         font-size: 18px;
         letter-spacing: 2px;
-        padding-left: ;
         color: #8C6239;
     }
     .reservation_button1 {
@@ -1990,7 +1952,6 @@ body {
     .location_section2_right {
         width: 100%;
         height: 50%;
-        background-color: ;
         float: right;
         margin-top: 3%;
     }
@@ -2058,7 +2019,6 @@ body {
     .location_icon1 {
         width: 14%;
         height: 100%;
-        background-color: ;
         float: left;
     }
     .icon05 {
@@ -2088,7 +2048,6 @@ body {
     .contact_up {
         width: 100%;
         height: 10%;
-        background-color: ;
     }
     .contact_down {
         width: 100%;
@@ -2162,7 +2121,7 @@ body {
         text-align: center;
         position: absolute;
         bottom: 5%;
-        left: 48%;
+        left: 49%;
         border-radius: 2px;
     }
     .footer {
@@ -2236,17 +2195,17 @@ body {
         height: 10%;
         font-size: 20px;
         bottom: 5%;
-        left: 45%;
+        left: 53.5%;
         border-radius: 3px;
     }
     .contact_middle_box.text3 {
         position: absolute;
-        left: 7%;
+        left: 4%;
         top: 45%;
     }
     .contact_middle_box.text4 {
         position: absolute;
-        left: 4%;
+        left: 2%;
         top: 58%;
     }
 	
