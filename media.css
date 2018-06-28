@@ -530,12 +530,12 @@
         }
         .contact_middle_box.text3 {
             position: absolute;
-            left: 8%;
+            left: 14%;
             top: 45%;
         }
         .contact_middle_box.text4 {
             position: absolute;
-            left: 6%;
+            left: 14%;
             top: 58%;
         }
         .contact_input1 {
@@ -691,6 +691,7 @@
         }
         .story_pic1 {
             height: 45vw;
+            margin-top: 30px;
         }
         .story_pic2 {
             height: 60vw;
@@ -762,6 +763,12 @@
         }
     }
     @media screen and (max-width:375px) {
+        .mobile_inner {
+            text-align: center;
+        }
+        .mobile_bottom {
+            text-align: center;
+        }
         .sologan_text {
             top: 35%;
         }
